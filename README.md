@@ -2,8 +2,7 @@
 
 ### Overview
 
-After buying an esp32 I decided to try navigate into wireless security after playing around with it for a while. I decided to make a 2.4GHz jammer, it wasnt as hard as I expected but it had it's challenges.
-I decided to make it open source as I believe information should be free, even if the law disagrees. I added in the bare minimum needed to begin jamming, feel free to study the code and take it from there in your own projects. Happy hacking!
+After buying an esp32 I decided to try navigate into wireless security after playing around with it for a while. I decided to make a 2.4GHz jammer, it wasnt as hard as I expected but it had it's challenges. I added in the bare minimum needed to begin jamming, feel free to study the code and take it from there in your own projects. Happy hacking!
 
 
 ### Features
